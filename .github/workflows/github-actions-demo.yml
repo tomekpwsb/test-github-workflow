@@ -4,7 +4,7 @@
     GitHub-Actions:
       runs-on: ubuntu-latest
       steps:
-        - run:python --version
+        - run: python --version
     Run-pylint:
       runs-on: ubuntu-latest
       steps:
